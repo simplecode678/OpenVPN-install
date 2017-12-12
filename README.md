@@ -1,3 +1,12 @@
+Adds option to change the expiry date of issued certificate. Thanks to [vik-y](https://github.com/vik-y/openvpn-install/commit/7f172e3e204bbd1daa6622666b49a94ee38131cd)
+First, get the script and make it executable :
+wget https://raw.githubusercontent.com/simplecode678/OpenVPN-install/master/openvpn-install.sh
+chmod +x openvpn-install.sh
+Then run it :
+./openvpn-install.sh
+
+
+
 # OpenVPN-install
 Secure OpenVPN installer for Debian, Ubuntu, CentOS and Arch Linux.
 
